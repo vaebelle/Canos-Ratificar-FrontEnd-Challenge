@@ -128,8 +128,6 @@ button:active {
     .divider.mobile {
         display: none;
     }
-}
-@media (max-width: 885px) {
     .divider.desktop {
         display: none;
     }
